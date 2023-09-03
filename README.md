@@ -5,9 +5,9 @@
 ### Language 
 [![](https://img.shields.io/badge/-HTML5-blue?logo=html5)](#)
 [![](https://img.shields.io/badge/-CSS3-blue?logo=css3)](#)
-[![](https://img.shields.io/badge/-JAVASCRIPTS-blue?logo=javascripts)](#)
+[![](https://img.shields.io/badge/-JAVASCRIPTS-yellow?logo=javascripts)](#)
 [![](https://img.shields.io/badge/-PHP-blue?logo=php)](#)
-[![](https://img.shields.io/badge/-MYSQL-blue?logo=mysql)](#)
+[![](https://img.shields.io/badge/-MYSQL-white?logo=mysql)](#)
 [![](https://img.shields.io/badge/-C-blue?logo=c)](#)
 [![](https://img.shields.io/badge/-C++-blue?logo=c++)](#)
 [![](https://img.shields.io/badge/-JAVA-blue?logo=java)](#)
