@@ -3,4 +3,4 @@
 [![](https://img.shields.io/badge/projects_-4-yellow)](#)
 [![](https://img.shields.io/badge/repositories_-8-yellow)](#)
 ### Language 
-[![](https://img.shields.io/badge/-HTML5-red?logo=html5)](#)
+[![](https://img.shields.io/badge/-HTML5-blue?logo=html5)](#)
