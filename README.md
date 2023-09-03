@@ -13,5 +13,5 @@
 [![](https://img.shields.io/badge/-JAVA-blue?logo=java)](#)
 [![](https://img.shields.io/badge/-ASP.NET-blue?logo=asp.net)](#)
 [![](https://img.shields.io/badge/-DART-blue?logo=dart)](#)
-[![](https://img.shields.io/badge/-FLUTTER-blue?logo=flutter)](#)
+[![](https://img.shields.io/badge/-FLUTTER-white?logo=flutter)](#)
 [![](https://img.shields.io/badge/-ANDROID-blue?logo=android)](#)
