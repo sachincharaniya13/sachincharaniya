@@ -5,7 +5,7 @@
 ### Language 
 [![](https://img.shields.io/badge/-HTML5-blue?logo=html5)](#)
 [![](https://img.shields.io/badge/-CSS3-blue?logo=css3)](#)
-[![](https://img.shields.io/badge/-JAVASCRIPTS-yellow?logo=javascripts)](#)
+[![](https://img.shields.io/badge/-JAVASCRIPT-yellow?logo=javascript)](#)
 [![](https://img.shields.io/badge/-PHP-blue?logo=php)](#)
 [![](https://img.shields.io/badge/-MYSQL-red?logo=mysql)](#)
 [![](https://img.shields.io/badge/-C-blue?logo=c)](#)
