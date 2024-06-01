@@ -9,7 +9,6 @@
 [![](https://img.shields.io/badge/-PHP-blue?logo=php)](#)
 [![](https://img.shields.io/badge/-MYSQL-red?logo=mysql)](#)
 [![](https://img.shields.io/badge/-C-blue?logo=c)](#)
-[![](https://img.shields.io/badge/-C++-blue?logo=c++)](#)
 [![](https://img.shields.io/badge/-DART-black?logo=dart)](#)
 [![](https://img.shields.io/badge/-FLUTTER-red?logo=flutter)](#)
 [![](https://img.shields.io/badge/-ANDROID-blue?logo=android)](#)
