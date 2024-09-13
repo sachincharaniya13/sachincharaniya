@@ -1,13 +1,20 @@
 # 👋 Hello! I'm [Sachin Charaniya](https://github.com/SachinCharaniya/SachinCharaniya)
-[![](https://img.shields.io/badge/projects_-4-yellow)](#)
-[![](https://img.shields.io/badge/repositories_-8-yellow)](#)
-### Language 
-[![](https://img.shields.io/badge/-HTML5-blue?logo=html5)](#)
-[![](https://img.shields.io/badge/-CSS3-blue?logo=css3)](#)
-[![](https://img.shields.io/badge/-JAVASCRIPT-yellow?logo=javascript)](#)
-[![](https://img.shields.io/badge/-PHP-blue?logo=php)](#)
-[![](https://img.shields.io/badge/-MYSQL-red?logo=mysql)](#)
-[![](https://img.shields.io/badge/-C-blue?logo=c)](#)
-[![](https://img.shields.io/badge/-DART-black?logo=dart)](#)
-[![](https://img.shields.io/badge/-FLUTTER-red?logo=flutter)](#)
-[![](https://img.shields.io/badge/-ANDROID-blue?logo=android)](#)
+## Skills:
+
+#### Languages:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/sql-F29111?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
+
+#### ML/DL
+
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
+![NLP](https://img.shields.io/badge/NLP-0D9BEF?style=for-the-badge&logoColor=white)&nbsp;<br/>  
+
+![OpenCV](https://img.shields.io/badge/opencv-138DFF?style=for-the-badge&logo=OpenCV)&nbsp;
+![YOLO](https://img.shields.io/badge/yolo-00FFFF?style=for-the-badge&)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+<!-- ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)&nbsp; -->
