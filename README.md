@@ -2,6 +2,21 @@
 
 A passionate Data Science at Prodigy InfoTech, committed to pushing the boundaries of data science. My journey in the tech world began with a strong foundation in data science during my Master of Computer Applications (MCA) at [L. D. College of Engineering](https://ldce.ac.in/). Today, I specialize in developing innovative AI applications that are shaping the future of technology.
 
+## Connect with me:
+
+<div align="left" style="margin-bottom: 10px;">
+  <a href="mailto:sachincharaniya575@gmail.com" target="_blank" style="margin-right: 5px;">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/sachin-charaniya/" target="_blank" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
+  </a>
+  <a href="https://github.com/sachincharaniya" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30" />
+  </a>
+</div>
+
+<br/> 
 ## Skills:
 
 #### Languages:
