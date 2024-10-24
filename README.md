@@ -1,6 +1,6 @@
 # 👋 Hello! I'm [Sachin Charaniya](https://github.com/SachinCharaniya/SachinCharaniya)
 
-A passionate Data Science at Data Science Intern , committed to pushing the boundaries of data science. My journey in the tech world began with a strong foundation in data science during my Master of Computer Applications (MCA) at [L. D. College of Engineering](https://ldce.ac.in/). Today, I specialize in developing innovative AI applications that are shaping the future of technology.
+A passionate Data Science at Prodigy InfoTech, committed to pushing the boundaries of data science. My journey in the tech world began with a strong foundation in data science during my Master of Computer Applications (MCA) at [L. D. College of Engineering](https://ldce.ac.in/). Today, I specialize in developing innovative AI applications that are shaping the future of technology.
 
 ## Skills:
 
